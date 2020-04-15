@@ -1,0 +1,22 @@
+[package]
+name = "covid19"
+version = "0.1.0"
+authors = ["biomunky"]
+edition = "2018"
+readme = "README.md"
+categories = ["api-bindings"]
+license = "MIT/Apache-2.0"
+homepage = "https://github.com/biomunky/cv19api"
+keywords = ["covid", "client", "cv19api", "deaths", "uk"]
+
+[lib]
+name="covid19"
+path="src/lib.rs"
+
+[dependencies]
+chrono = { version = "0.4", features = ["serde"] }
+reqwest = { version = "0.10", features = ["blocking", "json"] }
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+anyhow = "1.0"

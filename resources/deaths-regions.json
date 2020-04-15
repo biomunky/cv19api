@@ -1,0 +1,910 @@
+{
+    "data": [
+        {
+            "date": "2020-04-14",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 41
+        },
+        {
+            "date": "2020-04-14",
+            "region": "MIDLANDS",
+            "deaths": 19
+        },
+        {
+            "date": "2020-04-14",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 12
+        },
+        {
+            "date": "2020-04-14",
+            "region": "NORTH_WEST",
+            "deaths": 23
+        },
+        {
+            "date": "2020-04-14",
+            "region": "SOUTH_EAST",
+            "deaths": 8
+        },
+        {
+            "date": "2020-04-14",
+            "region": "SOUTH_WEST",
+            "deaths": 10
+        },
+        {
+            "date": "2020-04-13",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 139
+        },
+        {
+            "date": "2020-04-13",
+            "region": "MIDLANDS",
+            "deaths": 70
+        },
+        {
+            "date": "2020-04-13",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 57
+        },
+        {
+            "date": "2020-04-13",
+            "region": "NORTH_WEST",
+            "deaths": 73
+        },
+        {
+            "date": "2020-04-13",
+            "region": "SOUTH_EAST",
+            "deaths": 42
+        },
+        {
+            "date": "2020-04-13",
+            "region": "SOUTH_WEST",
+            "deaths": 18
+        },
+        {
+            "date": "2020-04-12",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 191
+        },
+        {
+            "date": "2020-04-12",
+            "region": "MIDLANDS",
+            "deaths": 110
+        },
+        {
+            "date": "2020-04-12",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 76
+        },
+        {
+            "date": "2020-04-12",
+            "region": "NORTH_WEST",
+            "deaths": 92
+        },
+        {
+            "date": "2020-04-12",
+            "region": "SOUTH_EAST",
+            "deaths": 52
+        },
+        {
+            "date": "2020-04-12",
+            "region": "SOUTH_WEST",
+            "deaths": 19
+        },
+        {
+            "date": "2020-04-11",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 216
+        },
+        {
+            "date": "2020-04-11",
+            "region": "MIDLANDS",
+            "deaths": 127
+        },
+        {
+            "date": "2020-04-11",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 85
+        },
+        {
+            "date": "2020-04-11",
+            "region": "NORTH_WEST",
+            "deaths": 108
+        },
+        {
+            "date": "2020-04-11",
+            "region": "SOUTH_EAST",
+            "deaths": 64
+        },
+        {
+            "date": "2020-04-11",
+            "region": "SOUTH_WEST",
+            "deaths": 37
+        },
+        {
+            "date": "2020-04-10",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 199
+        },
+        {
+            "date": "2020-04-10",
+            "region": "MIDLANDS",
+            "deaths": 115
+        },
+        {
+            "date": "2020-04-10",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 101
+        },
+        {
+            "date": "2020-04-10",
+            "region": "NORTH_WEST",
+            "deaths": 88
+        },
+        {
+            "date": "2020-04-10",
+            "region": "SOUTH_EAST",
+            "deaths": 63
+        },
+        {
+            "date": "2020-04-10",
+            "region": "SOUTH_WEST",
+            "deaths": 40
+        },
+        {
+            "date": "2020-04-09",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 226
+        },
+        {
+            "date": "2020-04-09",
+            "region": "MIDLANDS",
+            "deaths": 124
+        },
+        {
+            "date": "2020-04-09",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 101
+        },
+        {
+            "date": "2020-04-09",
+            "region": "NORTH_WEST",
+            "deaths": 102
+        },
+        {
+            "date": "2020-04-09",
+            "region": "SOUTH_EAST",
+            "deaths": 83
+        },
+        {
+            "date": "2020-04-09",
+            "region": "SOUTH_WEST",
+            "deaths": 17
+        },
+        {
+            "date": "2020-04-08",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 291
+        },
+        {
+            "date": "2020-04-08",
+            "region": "MIDLANDS",
+            "deaths": 173
+        },
+        {
+            "date": "2020-04-08",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 96
+        },
+        {
+            "date": "2020-04-08",
+            "region": "NORTH_WEST",
+            "deaths": 100
+        },
+        {
+            "date": "2020-04-08",
+            "region": "SOUTH_EAST",
+            "deaths": 68
+        },
+        {
+            "date": "2020-04-08",
+            "region": "SOUTH_WEST",
+            "deaths": 43
+        },
+        {
+            "date": "2020-04-07",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 261
+        },
+        {
+            "date": "2020-04-07",
+            "region": "MIDLANDS",
+            "deaths": 116
+        },
+        {
+            "date": "2020-04-07",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 92
+        },
+        {
+            "date": "2020-04-07",
+            "region": "NORTH_WEST",
+            "deaths": 116
+        },
+        {
+            "date": "2020-04-07",
+            "region": "SOUTH_EAST",
+            "deaths": 75
+        },
+        {
+            "date": "2020-04-07",
+            "region": "SOUTH_WEST",
+            "deaths": 39
+        },
+        {
+            "date": "2020-04-06",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 227
+        },
+        {
+            "date": "2020-04-06",
+            "region": "MIDLANDS",
+            "deaths": 132
+        },
+        {
+            "date": "2020-04-06",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 82
+        },
+        {
+            "date": "2020-04-06",
+            "region": "NORTH_WEST",
+            "deaths": 92
+        },
+        {
+            "date": "2020-04-06",
+            "region": "SOUTH_EAST",
+            "deaths": 73
+        },
+        {
+            "date": "2020-04-06",
+            "region": "SOUTH_WEST",
+            "deaths": 32
+        },
+        {
+            "date": "2020-04-05",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 231
+        },
+        {
+            "date": "2020-04-05",
+            "region": "MIDLANDS",
+            "deaths": 147
+        },
+        {
+            "date": "2020-04-05",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 91
+        },
+        {
+            "date": "2020-04-05",
+            "region": "NORTH_WEST",
+            "deaths": 87
+        },
+        {
+            "date": "2020-04-05",
+            "region": "SOUTH_EAST",
+            "deaths": 70
+        },
+        {
+            "date": "2020-04-05",
+            "region": "SOUTH_WEST",
+            "deaths": 31
+        },
+        {
+            "date": "2020-04-04",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 259
+        },
+        {
+            "date": "2020-04-04",
+            "region": "MIDLANDS",
+            "deaths": 135
+        },
+        {
+            "date": "2020-04-04",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 96
+        },
+        {
+            "date": "2020-04-04",
+            "region": "NORTH_WEST",
+            "deaths": 96
+        },
+        {
+            "date": "2020-04-04",
+            "region": "SOUTH_EAST",
+            "deaths": 73
+        },
+        {
+            "date": "2020-04-04",
+            "region": "SOUTH_WEST",
+            "deaths": 39
+        },
+        {
+            "date": "2020-04-03",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 230
+        },
+        {
+            "date": "2020-04-03",
+            "region": "MIDLANDS",
+            "deaths": 117
+        },
+        {
+            "date": "2020-04-03",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 84
+        },
+        {
+            "date": "2020-04-03",
+            "region": "NORTH_WEST",
+            "deaths": 81
+        },
+        {
+            "date": "2020-04-03",
+            "region": "SOUTH_EAST",
+            "deaths": 59
+        },
+        {
+            "date": "2020-04-03",
+            "region": "SOUTH_WEST",
+            "deaths": 28
+        },
+        {
+            "date": "2020-04-02",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 214
+        },
+        {
+            "date": "2020-04-02",
+            "region": "MIDLANDS",
+            "deaths": 129
+        },
+        {
+            "date": "2020-04-02",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 67
+        },
+        {
+            "date": "2020-04-02",
+            "region": "NORTH_WEST",
+            "deaths": 80
+        },
+        {
+            "date": "2020-04-02",
+            "region": "SOUTH_EAST",
+            "deaths": 47
+        },
+        {
+            "date": "2020-04-02",
+            "region": "SOUTH_WEST",
+            "deaths": 20
+        },
+        {
+            "date": "2020-04-01",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 215
+        },
+        {
+            "date": "2020-04-01",
+            "region": "MIDLANDS",
+            "deaths": 130
+        },
+        {
+            "date": "2020-04-01",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 51
+        },
+        {
+            "date": "2020-04-01",
+            "region": "NORTH_WEST",
+            "deaths": 80
+        },
+        {
+            "date": "2020-04-01",
+            "region": "SOUTH_EAST",
+            "deaths": 59
+        },
+        {
+            "date": "2020-04-01",
+            "region": "SOUTH_WEST",
+            "deaths": 23
+        },
+        {
+            "date": "2020-03-31",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 99
+        },
+        {
+            "date": "2020-03-31",
+            "region": "MIDLANDS",
+            "deaths": 49
+        },
+        {
+            "date": "2020-03-31",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 13
+        },
+        {
+            "date": "2020-03-31",
+            "region": "NORTH_WEST",
+            "deaths": 23
+        },
+        {
+            "date": "2020-03-31",
+            "region": "SOUTH_EAST",
+            "deaths": 21
+        },
+        {
+            "date": "2020-03-31",
+            "region": "SOUTH_WEST",
+            "deaths": 8
+        },
+        {
+            "date": "2020-03-30",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 173
+        },
+        {
+            "date": "2020-03-30",
+            "region": "MIDLANDS",
+            "deaths": 89
+        },
+        {
+            "date": "2020-03-30",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 31
+        },
+        {
+            "date": "2020-03-30",
+            "region": "NORTH_WEST",
+            "deaths": 44
+        },
+        {
+            "date": "2020-03-30",
+            "region": "SOUTH_EAST",
+            "deaths": 41
+        },
+        {
+            "date": "2020-03-30",
+            "region": "SOUTH_WEST",
+            "deaths": 5
+        },
+        {
+            "date": "2020-03-29",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 112
+        },
+        {
+            "date": "2020-03-29",
+            "region": "MIDLANDS",
+            "deaths": 85
+        },
+        {
+            "date": "2020-03-29",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 34
+        },
+        {
+            "date": "2020-03-29",
+            "region": "NORTH_WEST",
+            "deaths": 29
+        },
+        {
+            "date": "2020-03-29",
+            "region": "SOUTH_EAST",
+            "deaths": 40
+        },
+        {
+            "date": "2020-03-29",
+            "region": "SOUTH_WEST",
+            "deaths": 5
+        },
+        {
+            "date": "2020-03-28",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 37
+        },
+        {
+            "date": "2020-03-28",
+            "region": "MIDLANDS",
+            "deaths": 34
+        },
+        {
+            "date": "2020-03-28",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 5
+        },
+        {
+            "date": "2020-03-28",
+            "region": "NORTH_WEST",
+            "deaths": 12
+        },
+        {
+            "date": "2020-03-28",
+            "region": "SOUTH_EAST",
+            "deaths": 6
+        },
+        {
+            "date": "2020-03-28",
+            "region": "SOUTH_WEST",
+            "deaths": 5
+        },
+        {
+            "date": "2020-03-27",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 50
+        },
+        {
+            "date": "2020-03-27",
+            "region": "MIDLANDS",
+            "deaths": 24
+        },
+        {
+            "date": "2020-03-27",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 6
+        },
+        {
+            "date": "2020-03-27",
+            "region": "NORTH_WEST",
+            "deaths": 7
+        },
+        {
+            "date": "2020-03-27",
+            "region": "SOUTH_EAST",
+            "deaths": 12
+        },
+        {
+            "date": "2020-03-27",
+            "region": "SOUTH_WEST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-26",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 44
+        },
+        {
+            "date": "2020-03-26",
+            "region": "MIDLANDS",
+            "deaths": 15
+        },
+        {
+            "date": "2020-03-26",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-26",
+            "region": "NORTH_WEST",
+            "deaths": 5
+        },
+        {
+            "date": "2020-03-26",
+            "region": "SOUTH_EAST",
+            "deaths": 11
+        },
+        {
+            "date": "2020-03-26",
+            "region": "SOUTH_WEST",
+            "deaths": 3
+        },
+        {
+            "date": "2020-03-25",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 35
+        },
+        {
+            "date": "2020-03-25",
+            "region": "MIDLANDS",
+            "deaths": 8
+        },
+        {
+            "date": "2020-03-25",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-25",
+            "region": "NORTH_WEST",
+            "deaths": 3
+        },
+        {
+            "date": "2020-03-25",
+            "region": "SOUTH_EAST",
+            "deaths": 6
+        },
+        {
+            "date": "2020-03-25",
+            "region": "SOUTH_WEST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-24",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 20
+        },
+        {
+            "date": "2020-03-24",
+            "region": "MIDLANDS",
+            "deaths": 10
+        },
+        {
+            "date": "2020-03-24",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-24",
+            "region": "NORTH_WEST",
+            "deaths": 3
+        },
+        {
+            "date": "2020-03-24",
+            "region": "SOUTH_EAST",
+            "deaths": 3
+        },
+        {
+            "date": "2020-03-24",
+            "region": "SOUTH_WEST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-23",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 12
+        },
+        {
+            "date": "2020-03-23",
+            "region": "MIDLANDS",
+            "deaths": 6
+        },
+        {
+            "date": "2020-03-23",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-23",
+            "region": "NORTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-23",
+            "region": "SOUTH_EAST",
+            "deaths": 4
+        },
+        {
+            "date": "2020-03-23",
+            "region": "SOUTH_WEST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-22",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 15
+        },
+        {
+            "date": "2020-03-22",
+            "region": "MIDLANDS",
+            "deaths": 7
+        },
+        {
+            "date": "2020-03-22",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-22",
+            "region": "NORTH_WEST",
+            "deaths": 6
+        },
+        {
+            "date": "2020-03-22",
+            "region": "SOUTH_EAST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-22",
+            "region": "SOUTH_WEST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-21",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 14
+        },
+        {
+            "date": "2020-03-21",
+            "region": "MIDLANDS",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-21",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-21",
+            "region": "NORTH_WEST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-21",
+            "region": "SOUTH_EAST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-21",
+            "region": "SOUTH_WEST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-20",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 8
+        },
+        {
+            "date": "2020-03-20",
+            "region": "MIDLANDS",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-20",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-20",
+            "region": "NORTH_WEST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-20",
+            "region": "SOUTH_EAST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-20",
+            "region": "SOUTH_WEST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-19",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 4
+        },
+        {
+            "date": "2020-03-19",
+            "region": "MIDLANDS",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-19",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-19",
+            "region": "NORTH_WEST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-19",
+            "region": "SOUTH_EAST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-19",
+            "region": "SOUTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-18",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 3
+        },
+        {
+            "date": "2020-03-18",
+            "region": "MIDLANDS",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-18",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-18",
+            "region": "NORTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-18",
+            "region": "SOUTH_EAST",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-18",
+            "region": "SOUTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-17",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-17",
+            "region": "MIDLANDS",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-17",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-17",
+            "region": "NORTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-17",
+            "region": "SOUTH_EAST",
+            "deaths": 1
+        },
+        {
+            "date": "2020-03-17",
+            "region": "SOUTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-16",
+            "region": "EAST_OF_ENGLAND",
+            "deaths": 3
+        },
+        {
+            "date": "2020-03-16",
+            "region": "MIDLANDS",
+            "deaths": 2
+        },
+        {
+            "date": "2020-03-16",
+            "region": "NORTH_EAST_AND_YORKSHIRE",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-16",
+            "region": "NORTH_WEST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-16",
+            "region": "SOUTH_EAST",
+            "deaths": 0
+        },
+        {
+            "date": "2020-03-16",
+            "region": "SOUTH_WEST",
+            "deaths": 0
+        }
+    ],
+    "metaData": {
+        "recordedOnTo": "2020-04-15",
+        "from": "2020-03-16",
+        "to": "2020-04-15",
+        "recordedOnFrom": "2020-01-01"
+    }
+}
