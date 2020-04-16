@@ -1,5 +1,6 @@
 use super::data::{DeathsResponse, RegionResponse, TrustResponse};
 use anyhow::{anyhow, Result};
+use serde::de::DeserializeOwned;
 
 const BASE_URL: &str = "https://api.cv19api.com/api/v1/";
 
@@ -24,26 +25,25 @@ pub fn fetch_resource(url: &str) -> Result<String> {
     }
 }
 
-pub fn deaths() -> Result<DeathsResponse> {
-    let mut url = BASE_URL.to_owned();
-    url.push_str("deaths");
-
+fn fetch<T>(url: &str) -> Result<T>
+where
+    T: DeserializeOwned,
+{
     let r = fetch_resource(&url)?;
-    Ok(serde_json::from_str::<DeathsResponse>(&r)?)
+    Ok(serde_json::from_str::<T>(&r)?)
+}
+
+pub fn deaths() -> Result<DeathsResponse> {
+    let url = format!("{}{}", BASE_URL, "deaths");
+    fetch::<DeathsResponse>(&url)
 }
 
 pub fn deaths_by_region() -> Result<RegionResponse> {
-    let mut url = BASE_URL.to_owned();
-    url.push_str("deaths/regions");
-
-    let r = fetch_resource(&url)?;
-    Ok(serde_json::from_str::<RegionResponse>(&r)?)
+    let url = format!("{}{}", BASE_URL, "deaths/regions");
+    fetch::<RegionResponse>(&url)
 }
 
 pub fn deaths_by_trust() -> Result<TrustResponse> {
-    let mut url = BASE_URL.to_owned();
-    url.push_str("deaths/trusts");
-
-    let r = fetch_resource(&url)?;
-    Ok(serde_json::from_str::<TrustResponse>(&r)?)
+    let url = format!("{}{}", BASE_URL, "deaths/trusts");
+    fetch::<TrustResponse>(&url)
 }
