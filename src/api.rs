@@ -4,7 +4,7 @@ use serde::de::DeserializeOwned;
 
 const BASE_URL: &str = "https://api.cv19api.com/api/v1/";
 
-pub fn fetch_resource(url: &str) -> Result<String> {
+fn fetch_resource(url: &str) -> Result<String> {
     static CLIENT_USER_AGENT: &str = concat!(
         "rust-",
         env!("CARGO_PKG_NAME"),
