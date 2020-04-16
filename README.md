@@ -73,3 +73,5 @@ Handles the following endpoints and returns an Ok(Response) for each. Each Endpo
 Quick and dirty usage
 
     cargo run --example get_deaths
+    cargo run --example get_deaths_by_region
+    cargo run --example get_deaths_by_trust
