@@ -1,4 +1,4 @@
-use super::data::{DeathsResponse, RegionResponse, TrustResponse};
+use super::data::{DeathsResponse, RegionsResponse, TrustsResponse};
 use anyhow::{anyhow, Result};
 use serde::de::DeserializeOwned;
 
@@ -34,16 +34,13 @@ where
 }
 
 pub fn deaths() -> Result<DeathsResponse> {
-    let url = format!("{}{}", BASE_URL, "deaths");
-    fetch::<DeathsResponse>(&url)
+    fetch(&format!("{}{}", BASE_URL, "deaths"))
 }
 
-pub fn deaths_by_region() -> Result<RegionResponse> {
-    let url = format!("{}{}", BASE_URL, "deaths/regions");
-    fetch::<RegionResponse>(&url)
+pub fn deaths_by_region() -> Result<RegionsResponse> {
+    fetch(&format!("{}{}", BASE_URL, "deaths/regions"))
 }
 
-pub fn deaths_by_trust() -> Result<TrustResponse> {
-    let url = format!("{}{}", BASE_URL, "deaths/trusts");
-    fetch::<TrustResponse>(&url)
+pub fn deaths_by_trust() -> Result<TrustsResponse> {
+    fetch(&format!("{}{}", BASE_URL, "deaths/trusts"))
 }

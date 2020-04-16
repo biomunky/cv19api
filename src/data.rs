@@ -8,14 +8,14 @@ pub struct DeathsResponse {
 }
 
 #[derive(Debug, Serialize, Deserialize)]
-pub struct RegionResponse {
+pub struct RegionsResponse {
     pub data: Vec<RegionDeaths>,
     #[serde(rename = "metaData")]
     pub metadata: Metadata,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
-pub struct TrustResponse {
+pub struct TrustsResponse {
     pub data: Vec<TrustDeaths>,
     #[serde(rename = "metaData")]
     pub metadata: Metadata,
@@ -88,7 +88,7 @@ mod tests {
 
     #[test]
     fn deserialize_region_response() {
-        let resp: RegionResponse = read_json("resources/deaths-regions.json");
+        let resp: RegionsResponse = read_json("resources/deaths-regions.json");
         let data = resp.data;
         let first_point = &data[0];
 
@@ -99,7 +99,7 @@ mod tests {
 
     #[test]
     fn deserialize_trust_response() {
-        let resp: TrustResponse = read_json("resources/deaths-trusts.json");
+        let resp: TrustsResponse = read_json("resources/deaths-trusts.json");
         let data = resp.data;
         let first_point = &data[0];
 
