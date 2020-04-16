@@ -8,6 +8,7 @@ categories = ["api-bindings"]
 license = "MIT/Apache-2.0"
 homepage = "https://github.com/biomunky/cv19api"
 keywords = ["covid", "client", "cv19api", "deaths", "uk"]
+description = "Wrapper for cv19api https://lbandc.github.io/2020/04/14/project-cv19api.html"
 
 [lib]
 name="covid19"
