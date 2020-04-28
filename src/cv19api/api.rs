@@ -1,7 +1,8 @@
 use super::data::{DeathsResponse, RegionsResponse, TrustsResponse};
-use anyhow::Result;
-
 use crate::utils::fetch;
+use anyhow::Result;
+use chrono::NaiveDate;
+use serde::de::DeserializeOwned;
 
 fn url_for(
     base_url: &str,

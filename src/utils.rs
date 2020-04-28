@@ -1,5 +1,4 @@
 use anyhow::{anyhow, Result};
-use chrono::NaiveDate;
 use serde::de::DeserializeOwned;
 
 fn fetch_resource(url: &str) -> Result<String> {

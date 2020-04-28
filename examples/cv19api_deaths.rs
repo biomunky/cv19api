@@ -1,3 +1,4 @@
+use chrono::NaiveDate;
 use covid19::cv19api;
 
 fn main() {
@@ -11,7 +12,7 @@ fn main() {
     let from = NaiveDate::from_ymd(2020, 4, 15);
     let to = NaiveDate::from_ymd(2020, 4, 25);
     let use_ground_truth = false;
-    let parameterised = covid19::api::parameterised_deaths(from, to, use_ground_truth);
+    let parameterised = cv19api::api::parameterised_deaths(from, to, use_ground_truth);
 
     println!("{:?}", parameterised)
 }
