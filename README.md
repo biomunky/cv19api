@@ -72,6 +72,6 @@ Handles the following endpoints and returns an Ok(Response) for each. Each Endpo
 ## Example
 Quick and dirty usage
 
-    cargo run --example get_deaths
-    cargo run --example get_deaths_by_region
-    cargo run --example get_deaths_by_trust
+    cargo run --example cv19api_deaths_by_region.rs
+    cargo run --example cv19api_deaths_by_trust.rs
+    cargo run --example cv19api_deaths.rs
