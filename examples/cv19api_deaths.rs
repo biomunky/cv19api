@@ -5,8 +5,8 @@ fn main() {
     let deaths = cv19api::api::deaths();
 
     if let Ok(resp) = deaths {
-        println!("{:?}", resp.data[0]);
-        println!("{:?}", resp.metadata)
+        println!("{:#?}", resp.data[0]);
+        println!("{:#?}", resp.metadata)
     }
 
     let from = NaiveDate::from_ymd(2020, 4, 15);
@@ -14,5 +14,5 @@ fn main() {
     let use_ground_truth = false;
     let parameterised = cv19api::api::parameterised_deaths(from, to, use_ground_truth);
 
-    println!("{:?}", parameterised)
+    println!("{:#?}", parameterised)
 }
