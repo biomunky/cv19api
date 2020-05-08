@@ -2,5 +2,6 @@
 extern crate serde_derive;
 extern crate serde;
 
-pub mod api;
-pub mod data;
+pub mod coviddata;
+pub mod cv19api;
+mod utils;
